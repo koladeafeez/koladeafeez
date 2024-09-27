@@ -1,7 +1,7 @@
 
 # 👨‍💻 Kolade Afeez | Software Engineer | .NET | Javascript | Python
 
-I'm a seasoned software engineer with over 5 years of experience specializing in full-stack development, particularly in .NET programming and web development. My expertise spans across building scalable applications, optimizing database performance, and leading engineering teams to deliver robust solutions in fast-paced environments.
+I'm a seasoned software engineer with over 4 years of experience specializing in full-stack development, particularly in .NET programming and web development. My expertise spans across building scalable applications, optimizing database performance, and leading engineering teams to deliver robust solutions in fast-paced environments.
 
 ---
 
@@ -20,14 +20,14 @@ I'm a seasoned software engineer with over 5 years of experience specializing in
 
 ## 🌱 What I'm currently learning
 
-I'm currently pursuing a **Master's in Artificial Intelligence** at the University of Stirling, focusing on AI-driven solutions and expanding my knowledge in cloud technologies. I am deepening my understanding of **machine learning**, **data science**, and further honing my skills in **DevOps**.
+I'm currently pursuing a **Master's in Artificial Intelligence** at the University of Stirling, focusing on AI-driven solutions and expanding my knowledge in software development and Applications of AI in commercial software applications. I am deepening my understanding of **machine learning**, **data science**, and further honing my skills in **DevOps**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Programming Languages:** C#/.NET, Python, JavaScript
-- **Web Development:** HTML/CSS, React.js, Node.js, Blazor, .NET Core
+- **Web Development:** HTML/CSS, React.js, Blazor, .NET Core
 - **Database Management:** SQL, MongoDB, PostgreSQL
 - **Tools & Technologies:** Docker, Kafka, RabbitMQ, Git
 - **Methodologies:** Agile, Scrum
