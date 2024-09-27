@@ -1,7 +1,7 @@
 
 # 👨‍💻 Kolade Afeez | Software Engineer | .NET | Javascript | Python
 
-I'm a seasoned software engineer with over 4 years of experience specializing in full-stack development, particularly in .NET programming and web development. My expertise spans across building scalable applications, optimizing database performance, and leading engineering teams to deliver robust solutions in fast-paced environments.
+I'm a seasoned software engineer with over 4 years of experience specializing in full-stack development, particularly in .NET programming and web development. My expertise spans across building scalable applications, optimizing database performance, and delivering robust solutions in fast-paced environments.
 
 ---
 
